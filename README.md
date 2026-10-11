@@ -3,7 +3,7 @@
 Welcome to the repository hosting my personal software engineering portfolio: [https://tbtratri.github.io](https://tbtratri.github.io).
 
 ## Overview
-This site highlights my academic background from BRAC University, core technical proficiencies, engineering projects, and research publications.
+This site highlights my academic background from BRAC University, core technical proficiencies, engineering projects and research publications.
 
 ## Tech Stack
 - **Markup & Styling:** HTML5, Tailwind CSS
