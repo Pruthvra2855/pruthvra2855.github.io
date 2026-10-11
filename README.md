@@ -1,16 +1,18 @@
-## Hi there 👋
+# Tahsin Binta Towhid — Personal Portfolio Website
 
-<!--
-**TBTRatri/TBTRatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the repository hosting my personal software engineering portfolio: [https://tbtratri.github.io](https://tbtratri.github.io).
 
-Here are some ideas to get you started:
+## Overview
+This site highlights my academic background from BRAC University, core technical proficiencies, engineering projects, and research publications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Markup & Styling:** HTML5, Tailwind CSS
+- **Icons:** Lucide Icons
+- **Hosting & Deployment:** GitHub Pages
+
+## Getting Started Locally
+To view or edit locally, clone the repository and open `index.html` in any modern web browser:
+```bash
+git clone [https://github.com/TBTRatri/TBTRatri.github.io.git](https://github.com/TBTRatri/TBTRatri.github.io.git)
+cd TBTRatri.github.io
+open index.html
