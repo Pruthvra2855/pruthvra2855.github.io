@@ -2,7 +2,7 @@
 
 Computer Science and Engineering graduate from **BRAC University** (CGPA: 3.69 / 4.00) based in Dhaka, Bangladesh.
 
-I specialize in backend software development, 3NF relational database architecture, applied machine-learning pipelines, and IoT embedded systems.
+I specialize in backend software development, 3NF relational database architecture, applied machine-learning pipelines and IoT embedded systems.
 
 ---
 
